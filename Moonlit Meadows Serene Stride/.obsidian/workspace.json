@@ -11,14 +11,12 @@
             "id": "e9c590831ff9f174",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Map Subsections/Map.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Map V1.png"
               },
-              "icon": "lucide-file",
-              "title": "Map"
+              "icon": "lucide-image",
+              "title": "Map V1"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map Subsections/Map.md",
+                "file": "Images/Map V1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map"
+              "title": "Backlinks for Map V1"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map Subsections/Map.md",
+                "file": "Images/Map V1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Map"
+              "title": "Outgoing links from Map V1"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map Subsections/Map.md"
+                "file": "Images/Map V1.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Map"
+              "title": "Outline of Map V1"
             }
           }
         ]
@@ -198,19 +196,50 @@
         "height": 516,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "496cdb04057e5bbf",
+        "type": "window",
+        "children": [
+          {
+            "id": "c09454911fcee4aa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c79fa34c1e417587",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Images/Map V1.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Map V1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "ace98b8cd1fa0e93",
+  "active": "c79fa34c1e417587",
   "lastOpenFiles": [
+    "Map Subsections/Mountains.md",
+    "Map Subsections/Map.md",
     "Map Subsections/Swamp.md",
     "Map Subsections/River.md",
     "Map Subsections/Lake.md",
-    "Map Subsections/Map.md",
     "Map Subsections/Path to the Woods.md",
     "Map Subsections/Multi-Color Forest.md",
     "Map Subsections/Left Forest.md",
-    "Map Subsections/Mountains.md",
     "Images/Map V1.png",
     "Images",
     "Map Subsections/Docks.md",
