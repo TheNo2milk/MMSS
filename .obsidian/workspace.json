@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "25bf848f5043b585",
+    "type": "split",
+    "children": [
+      {
+        "id": "5963bab0cc2dd62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1f023413d44881f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "040663391ec07d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "28e44263ca7d02ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "888c20f709e06b32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69bc20e6c0879c64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10726ac5b86293f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ed9d57a6cf6d5db",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ea7255732bcc840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a619272a43531e28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "686f8a6a50f3b824",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4d67a0904d083bac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0d13f1f88dfbe36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1f023413d44881f",
+  "lastOpenFiles": [
+    "Moonlit Meadows Serene Stride/Overview.canvas",
+    "Untitled.canvas",
+    "2024-12-29.md",
+    "Moonlit Meadows Serene Stride/Town.md",
+    "Moonlit Meadows Serene Stride/Map.md",
+    "Moonlit Meadows Serene Stride/Map V1.png",
+    "Moonlit Meadows Serene Stride/Mountains.md",
+    "Moonlit Meadows Serene Stride/Pasted image 20241229195705.png",
+    "Moonlit Meadows Serene Stride"
+  ]
+}
