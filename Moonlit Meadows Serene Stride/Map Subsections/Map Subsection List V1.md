@@ -1,10 +1,12 @@
 ![[Map V1.png]]
 [[Mountains]]
-[[Town]]
-[[Docks]]
-[[Left Forest]]
-[[Multi-Color Forest]]
 [[Swamp]]
-[[Path to the Woods]]
-[[River]]
-[[Lake]]
+[[Town]]
+[[Port]]
+[[Left of River]]
+
+Swamp = High risk high rewards
+Mountains = Caverns and caves to get to beach
+Docks = Used for travel and trade
+Left of river = Wild horses
+Right of river = Trained / Owned horses
